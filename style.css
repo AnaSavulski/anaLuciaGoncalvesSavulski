@@ -46,14 +46,14 @@ div, ul {
 details.p{
     text-decoration:none;
     font-size: medium;
-    color: rgb(112, 109, 159);
+    color: rgb(18, 18, 19);
     width: 560px;
     margin: auto;
     padding: 10px;
 }
 summary{
     font-size: bold;
-    color: rgb(58, 0, 112);
+    color: rgb(58,0,112);
 }
 a {
     text-decoration: none;
